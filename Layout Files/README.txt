@@ -1,1 +1,1 @@
-Sample layouts for OR1200 and CEP layouts. Different utilizations and custom defense implementations.
+Sample layouts for AES, OR1200 and CEP layouts. Layouts have different utilizations and custom defense implementations.
